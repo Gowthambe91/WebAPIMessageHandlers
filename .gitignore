@@ -1,0 +1,13 @@
+/packages/Microsoft.ApplicationInsights.WindowsServer.2.2.0/lib/net40/*.XML
+content
+*.xml
+*.dll
+*.nupkg
+tools
+build
+Debug
+*.rtf
+*.pdb
+roslyn
+Web.Release.config
+Web.Debug.config
